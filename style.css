@@ -1,0 +1,45 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+textarea {
+    margin-top: 24px;
+    border: 2px solid green;
+    padding:15px;
+    outline: none; /* Remove default focus outline */
+    width: 320px;
+    height: 200px;
+    resize: none;
+    border-radius: 5px;
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+}
+.for-text{
+    margin: auto;
+    background-color: white;
+    width: 408px;
+    height: 275px;
+}
+#charCount{
+    width: 100%;
+    text-align: right;
+    margin-top: -30px;
+    padding-right: 10px;
+    color: #909090;
+    position: relative;
+    right: 39px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
